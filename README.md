@@ -1,7 +1,7 @@
 👋 Hi, I’m @Theb1u3
-I’m interested in learning new skills
-I’m currently learning the basics of coding 
-I’m looking to grow my skills in coding and meet new people who also have a similar mindset
+- I’m interested in learning new skills
+- I’m currently learning the basics of coding 
+- I’m looking to grow my skills in coding and meet new people who also have a similar mindset
 
 
 <!---
